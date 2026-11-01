@@ -34,14 +34,6 @@ A modern, dark-themed desktop application for managing car rentals, built with *
 
 ---
 
-## 📂 Project Structure
-car-rental-management/
-│
-├── main.py                 # Main application file
-├── car_rental.db           # SQLite database (auto-generated)
-├── Car details v3.csv      # Kaggle dataset (user-provided)
-└── README.md               # Project documentation
-
 ## 👨‍💻 Author
 
 **Zabir Hasan**
