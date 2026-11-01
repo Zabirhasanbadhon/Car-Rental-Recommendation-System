@@ -42,6 +42,5 @@ A modern, dark-themed desktop application for managing car rentals, built with *
 
 **Zabir Hasan**
 
-🌐 www.zabirhasan.com
 
 
