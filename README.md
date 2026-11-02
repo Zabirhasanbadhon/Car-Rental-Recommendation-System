@@ -38,7 +38,7 @@ A modern, dark-themed desktop application for managing car rentals, built with *
 
 > For Dataset Contact With Me: 🌐 www.zabirhasan.com
 
-## 👨‍💻 Author
+## 👨‍💻 Developer
 
 **Zabir Hasan**
 
